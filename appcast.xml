@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Taktil</title>
+        <item>
+            <title>0.2.7</title>
+            <pubDate>Fri, 24 Jul 2026 17:59:23 +0000</pubDate>
+            <link>https://github.com/sparkleHazard/taktil</link>
+            <sparkle:version>20007</sparkle:version>
+            <sparkle:shortVersionString>0.2.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://sparklehazard.github.io/taktil-releases/Taktil-0.2.7.zip" length="28635561" type="application/octet-stream" sparkle:edSignature="Qvy2LDlc/eDMlRFMOgONHvCXdQ+DP1vBsMAqaV21slaQ//K53DC0U3UeaSbBK4o3biD1t90hFHI3CgxeBi+mDw=="/>
+        </item>
+    </channel>
+</rss>
